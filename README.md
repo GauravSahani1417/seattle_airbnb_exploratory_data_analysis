@@ -36,8 +36,8 @@ To clone the repository use: git clone https://github.com/JSanjayam/seattle_airb
 ## File Descriptions <a name="files"></a>
 Repository structure:
 
-    '''seattle_airbnb_exploratory_data_analysis/'''
-    '''├── README.md'''
+    seattle_airbnb_exploratory_data_analysis/
+    ├── README.md
     ├── calendar.csv
     ├── listings.csv
     ├── reviews.csv
