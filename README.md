@@ -35,13 +35,15 @@ To clone the repository use: git clone https://github.com/JSanjayam/seattle_airb
 
 ## File Descriptions <a name="files"></a>
 Repository structure:
-    seattle_airbnb_exploratory_data_analysis/
-    ├── README.md
+
+    '''seattle_airbnb_exploratory_data_analysis/'''
+    '''├── README.md'''
     ├── calendar.csv
     ├── listings.csv
     ├── reviews.csv
     ├── seattle_airbnb.ipynb
 There is 1 notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.  
+
 There 3 csv files used for the analysis are downloaded from kaggle.
 
 ## Results<a name="results"></a>
