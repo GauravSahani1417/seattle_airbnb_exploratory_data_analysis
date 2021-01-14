@@ -3,10 +3,9 @@
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
-3. [Directory Structure](#dir)
-4. [File Descriptions](#files)
-5. [Results](#results)
-6. [Licensing, Authors, and Acknowledgements](#licensing)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -34,17 +33,22 @@ For this project, I was interested in using Airbnb [Seattle Open Data from Kaggl
 To clone the repository use: git clone https://github.com/JSanjayam/seattle_airbnb_exploratory_data_analysis.git
 
 
-## Directory Structure <a name="dir"></a>
-
-
 ## File Descriptions <a name="files"></a>
+Repository structure:
 
+    seattle_airbnb_exploratory_data_analysis/
+    ├── README.md
+    ├── calendar.csv
+    ├── listings.csv
+    ├── reviews.csv
+    ├── seattle_airbnb.ipynb
 There is 1 notebook available here to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.  
 
+There 3 csv files used for the analysis are downloaded from kaggle.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://jayshreesanjayam.medium.com/exploratory-data-analysis-on-seattle-airbnb-homestays-dbeed8855b63).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
